@@ -83,7 +83,11 @@
                     
                     <!-- Name -->
                     <div class="page-scroll site-logo">
+<<<<<<< HEAD
                         <a href="#top">Albita Ramos</a>
+=======
+                        <a href="#top">Albita Marmolejo</a>
+>>>>>>> Angel2
                     </div>
 
                 </div><!-- /.navbar-header -->
