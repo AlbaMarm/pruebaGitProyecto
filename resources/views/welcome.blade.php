@@ -83,7 +83,7 @@
                     
                     <!-- Name -->
                     <div class="page-scroll site-logo">
-                        <a href="#top">Albita</a>
+                        <a href="#top">Albita Marmolejo</a>
                     </div>
 
                 </div><!-- /.navbar-header -->
