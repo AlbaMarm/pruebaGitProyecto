@@ -83,7 +83,7 @@
                     
                     <!-- Name -->
                     <div class="page-scroll site-logo">
-                        <a href="#top">Albita</a>
+                        <a href="#top">Albita Ramos</a>
                     </div>
 
                 </div><!-- /.navbar-header -->
